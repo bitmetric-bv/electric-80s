@@ -1,7 +1,3 @@
-# electric-80s
-A totally rad Qlik Sense theme!
-
-
 # Electric 80's
 A totally rad theme for Qlik Sense!
 
